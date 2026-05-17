@@ -10,7 +10,7 @@ Given its structured format and relevant business variables, this dataset is wel
 
 2. Data Cleaning
 	
-  2.1. Identify missing values and decide how to handle these missing values
+2.1. Identify missing values and decide how to handle these missing values
 
 Identifying Missing Values
 
@@ -34,6 +34,16 @@ A check for duplicate rows revealed 3 duplicate entries in the dataset, correspo
 Result summary
 
 <img width="621" height="264" alt="Result summary" src="https://github.com/user-attachments/assets/21e8b442-2e0d-49bc-a432-d79021b61f91" />
+
+3. Descriptive Statistics
+
+3.1. Perform descriptive statistics to summarise the main characteristics of the data and draw meaningful insights. 
+
+Numerical variables summary
+
+<img width="570" height="593" alt="Numerical Variable Summary" src="https://github.com/user-attachments/assets/89fc34d9-81da-4970-b17d-e96e6ba455d6" />
+
+
 
 
 
