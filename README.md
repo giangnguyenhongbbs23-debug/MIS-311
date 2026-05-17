@@ -33,6 +33,7 @@ A check for duplicate rows revealed 3 duplicate entries in the dataset, correspo
 
 Result summary
 
+<img width="621" height="264" alt="Result summary" src="https://github.com/user-attachments/assets/21e8b442-2e0d-49bc-a432-d79021b61f91" />
 
 
 
